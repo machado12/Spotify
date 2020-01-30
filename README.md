@@ -6,11 +6,11 @@
 
 [Spotify Clone da página inicial](https://machado12.github.io/Spotify/)
 
-<img src="images/spotify1.png">
+<img src="imagens/spotify1.png">
 
-<img src="images/seo1.png">
+<img src="imagens/seo1.png">
 
-<img src="images/seo2.png">
+<img src="imagens/seo2.png">
 
-<img src="images/eu.jpg">
-# spotify
+<img src="imagens/eu.jpg">
+# Spotify
